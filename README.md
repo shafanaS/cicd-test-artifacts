@@ -14,4 +14,4 @@ mvn test -Dendpoint=<ENDPOINT>
 ```
 
 #### Add new artifacts 
-* Place the artifact source code in the repository. Update `buildArtifact.sh` file with correct paths to artifact code.
+* Place the artifact source code in the repository. Update `buildArtifact.sh` file with correct paths to artifact code
