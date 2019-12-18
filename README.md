@@ -20,7 +20,7 @@ Sample product artifacts and and sample test cases for WSO2 products. This repos
             eg: helloworld_common_1.0.car
 
 * A sample scenario test suite implemented using Testng is in `test/{product}/sample-test-suite{product}` directory. This run a 
-simple test to validate response code of a rest endpoint. Use following command to run the test
+simple test to validate response code of a rest endpoint. Use following command to run the test.
 ```
 mvn test -Dendpoint=<ENDPOINT>
 ```
